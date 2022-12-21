@@ -31,6 +31,9 @@ Ett bra tips är att skapa en liten figmaskiss för erat UI
 
    "Alla" exempel finns att läsa på första länken i dokumentet och här:
    http://www.omdbapi.com/
+
+    NOTERA, I BILD-EXEMPEL OCH SKAPAD LÄNK NEDAN SAKNAS API-NYCKELN
+    ![image](https://user-images.githubusercontent.com/47057279/208869603-272e9cb7-7f2c-4a89-8ad9-0960bc351223.png)
  
 5. Vi vill även kunna att spara favoriter i en egen bin som ni gjorde i eran TODO-app
 
