@@ -29,10 +29,13 @@ Ett bra tips är att skapa en liten figmaskiss för erat UI
 
 4. Vi vill filtrera filmer efter kategorier (action/drama etc) 
 
-    "Alla" exempel finns att läsa på första länken i dokumentet och här:
-    http://www.omdbapi.com/
+   "Alla" exempel finns att läsa på första länken i dokumentet och här:
+   http://www.omdbapi.com/
  
 5. Vi vill även kunna att spara favoriter i en egen bin som ni gjorde i eran TODO-app
+
+  https://jsonbin.io/
+
 6. Där ska ni även kunna ta bort favvisarna ni har sparat
 
 
