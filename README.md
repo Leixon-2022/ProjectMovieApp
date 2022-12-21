@@ -5,7 +5,7 @@ Där ska vi hämta filmer från ett API som heter.
 
 [omdbapi](https://www.omdbapi.com)
 
-NI laddar ner detta repo lokalt.
+_**Ni**_ laddar ner detta repo lokalt.
 Där finner ni en JS-fil och README-filen.
 
 I JS-filen finns kod som ni känner igen från TODO-appen.
