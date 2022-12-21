@@ -15,7 +15,9 @@ Ett tips är att skapa en liten figmaskiss för erat UI
 1. Kolla igenom strukturen på eran TODO-app
 2. Ni behöver liknande html-taggar som matchas med js-filen
 3. Det första som händer är att ladda in filmer från api'et
+  
   http://www.omdbapi.com/
+  
   https://www.omdbapi.com/apikey.aspx
   ![image](https://user-images.githubusercontent.com/47057279/208859933-ce6353b7-3f7a-4dc3-82d9-3deb6a91b168.png)
 
