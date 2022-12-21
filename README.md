@@ -13,7 +13,9 @@ I JS-filen finns kod som ni känner igen från TODO-appen.
 _**Ni**_ ska skapa projektstrukturen likt Todo-appen.
 
 Nu ska ni skapa egna HTML och CSS-filer. 
-Eventuella iconer/bilder får ni hitta själva.
+
+Eventuella ikoner/bilder får ni hitta själva (alltså inte Film-posters utan bakgrunder, logo-typ mm).
+
 Ett bra tips är att skapa en liten figmaskiss för erat UI
 
 ## Utförande
