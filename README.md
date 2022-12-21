@@ -14,7 +14,9 @@ _**Ni**_ ska skapa projektstrukturen likt Todo-appen.
 
 Nu ska ni skapa egna HTML och CSS-filer. 
 Eventuella iconer/bilder får ni hitta själva.
-Ett tips är att skapa en liten figmaskiss för erat UI
+Ett bra tips är att skapa en liten figmaskiss för erat UI
+
+## Utförande
 
 1. Kolla igenom strukturen på eran TODO-app
 2. Ni behöver liknande html-taggar som matchas med js-filen
