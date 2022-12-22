@@ -27,7 +27,7 @@ Ett bra tips är att skapa en liten figmaskiss för erat UI
     https://www.omdbapi.com/apikey.aspx
     ![image](https://user-images.githubusercontent.com/47057279/208859933-ce6353b7-3f7a-4dc3-82d9-3deb6a91b168.png)
 
-4. Vi vill filtrera filmer efter kategorier (action/drama etc) 
+4. Vi vill filtrera filmer efter kategorier (action/drama etc om detta finns, annars annat lämpligt filter, serier/filmer) 
 
    "Alla" exempel finns att läsa på första länken i dokumentet och här:
    http://www.omdbapi.com/
